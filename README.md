@@ -8,3 +8,5 @@ https://docs.google.com/document/d/194QoouV0EHfLpkBi3d5zV3zrOg_gl1Ri53nK6gDSsIA/
 https://docs.google.com/document/d/1Qc60XJ7ttz5gAV6wWNynj9kcMXcfzbqy0YOv0VeRja0/edit - синтаксис SQL.
 
 https://docs.google.com/document/d/17LfAkZW3ief4mwb5nEWfLfroAjnfRXc8Hi-aFyNYWWw/edit?usp=sharing -  Конспект,задания и ответы по степику от 25.10.2022.
+
+https://docs.google.com/document/d/1RJvK1AsakxqkjWIsBLNNKQF8XiJqxJHqtpGxMtKd4E0/edit?usp=sharing - Конспект,задания и ответы по степику от 26.10.2022.
