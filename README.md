@@ -13,6 +13,6 @@ https://docs.google.com/document/d/1RJvK1AsakxqkjWIsBLNNKQF8XiJqxJHqtpGxMtKd4E0/
 
 https://docs.google.com/document/d/1kqn66Bsq_gL8A23EBCmsewhUIn4G-PEQu6mYN_e5txQ/edit?usp=sharing - Конспект,задания и ответы по степику от 27.10.2022 по 31.10.2022.
 
-https://docs.google.com/document/d/1pM8m4aq0CvmzqRMXk3P4EYbNHbJ7bVcwGvdmIjOB_fg/edit?usp=sharing - Конспект,задания и ответы по курсу степика от 3.2 - 4.4(датированный 06.11.2022).
+https://docs.google.com/document/d/1pM8m4aq0CvmzqRMXk3P4EYbNHbJ7bVcwGvdmIjOB_fg/edit?usp=sharing - Конспект,задания и ответы по курсу степика от 3.2 - 4.4.
 
 https://docs.google.com/document/d/1jdATnH_g-6kTATGmauWQJAaLs3MPgggWKDi1uGKtSaw/edit?usp=sharing - Сертификат по SQL.
