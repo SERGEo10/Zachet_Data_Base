@@ -16,3 +16,7 @@ https://docs.google.com/document/d/1kqn66Bsq_gL8A23EBCmsewhUIn4G-PEQu6mYN_e5txQ/
 https://docs.google.com/document/d/1pM8m4aq0CvmzqRMXk3P4EYbNHbJ7bVcwGvdmIjOB_fg/edit?usp=sharing - Конспект,задания и ответы по курсу степика от 3.2 - 4.4.
 
 https://docs.google.com/document/d/1jdATnH_g-6kTATGmauWQJAaLs3MPgggWKDi1uGKtSaw/edit?usp=sharing - Сертификат по SQL.
+
+https://docs.google.com/document/d/1B8CW5Hl-Q1P_CjYo-hAJDyHVmXGQSrNC_OSFvuHwy6E/edit?usp=sharing - STEPIK 2.5
+
+https://docs.google.com/document/d/173dB2EHQE_txXyQGs29gIHzyji8cu6PJAejofq8y_Yw/edit?usp=sharing - STEPIK 3.1
